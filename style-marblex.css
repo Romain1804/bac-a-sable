@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+h1 {
+    font-family: "modak", system-ui, -apple-system;
+    font-size: 60px;
+    font-weight: 400;
+    color: #070707;
+}
+
+h2 {
+    font-family: "nunito", system-ui, -apple-system;
+    font-size: 140px;
+    font-weight: 400;
+}
+
+.txt {
+    text-align: center;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #24f351;
+    border-radius: 50px;
+    color: red;
+    padding: 9px 18px;
+    display: inline-block;}
