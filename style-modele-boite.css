@@ -1,0 +1,12 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.btn{text-decoration: none;
+background-color: aqua;
+padding: 10px 20px;
+border-radius: 100px;
+display: inline-block;}
+
+.red{background-color: red;}
+
+.green{background-color: green;}

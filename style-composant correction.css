@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+.green{background-color: #61FF7B;}
+.btn {text-decoration: none;
+    font-family: "Inter", sans-serif;
+    padding:16px 32px;
+     display: inline-block; }
+.blue{background-color: #1398a0;}
+.radius{border-radius: 1000px;}
+.border{border: solid black 1px}
+.pointille{border: dashed black 2px}
+.gras{font-weight: 700;}
+.radius8{ border-radius: 8px;}
+.radiusoriginal{border-radius: 0px 32px;}
+.black{color: black;}
+.white{color: white;}
+.card{border: solid black 3px; width: 500px;padding: 4px;width: 30%; font-family: 'inter', sans-serif;box-shadow: 2px 2px 15px  gray;}
+.taille-image{width: 100%;border-radius: 8px ;}
+.decaler-hautbas{margin-top: 30px;}
+.flex{display: flex;
+    flex-wrap: wrap;}
+.spacearound{justify-content: space-around;}
