@@ -1,0 +1,36 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+.rouge{background-color: red;}
+
+.bleu{background-color: blue;}
+
+.vert{background-color: green;}
+/*
+div{
+    width: 200px;
+    height: 200px;
+}
+*/
+.flex{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.spacebetween{justify-content: space-between;}
+
+.spacearound{justify-content: space-around}
+
+.justifycenter{justify-content: center;}
+
+
+.gap16{
+    gap: 16px;
+}
+
+.w100{width: 100%;}
+
+.w15{width: 15%;}
+
+.txtcenter{text-align: center;}
+
